@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Maria Herick
+tagline:          ''
+description:      'Personal website of Maria Herick.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Maria Herick'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+plugins:
+  - jekyll-paginate
+  - jekyll-gist

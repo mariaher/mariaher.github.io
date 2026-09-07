@@ -1,0 +1,58 @@
+/* Custom color scheme*/
+.theme-base-0g .sidebar {
+  background-color: #0e5484;
+}
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover {
+  color: #0e5484;
+}
+
+/* round pic */
+img {
+  border-radius: 50%;
+}
+
+/* icons */
+h2 .section-icon {
+    display: inline-block;
+    width: 1.5em;
+    text-align: center;
+    margin-right: 0.4em;
+}
+
+.social-icons {
+  margin-top: 1rem;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin-right: 0.7rem;
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #fff;
+}
+
+.social-icons i {
+  font-size: 1.5rem;
+}
+
+/* cv stuff*/
+.cv-entry {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: 40px;
+    margin-bottom: .5rem;
+}
+
+.cv-date {
+    color: #666;
+    font-weight: 500;
+    min-width: 200px;
+}
+
+.cv-content {
+    min-width: 0;
+}
