@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.10"
-gem "jekyll-paginate"
+gem "jekyll", "~> 4.4.1"
+gem "jekyll-paginate", "~> 1.1"
 gem "jekyll-gist"
-gem "redcarpet"
