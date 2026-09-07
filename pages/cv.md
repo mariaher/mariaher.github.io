@@ -48,7 +48,7 @@ sidebar: true
   </div>
 </div>
 <div class="cv-entry">
-  <div class="cv-date">2021–2026</div>
+  <div class="cv-date">2018–2019</div>
   <div class="cv-content">
     <strong>Student Assistant (Research)</strong><br>
     <a href="https://www.uni-muenster.de/VISIX/index.shtml" target="_blank"><i>VISIX</i></a> Group of Prof. Lars Linsen, field of research: data visualization and topological data analysis
@@ -58,7 +58,7 @@ sidebar: true
   </div>
 </div>
 <div class="cv-entry">
-  <div class="cv-date">2021–2026</div>
+  <div class="cv-date">2017</div>
   <div class="cv-content">
     <strong>Internship</strong><br>
     Application Development
