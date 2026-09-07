@@ -13,6 +13,9 @@ sidebar: true
     <p>
       <em>Journal of Applied and Computational Topology</em>, 8 (8), Seiten 2327–2366, Doi: <a href="https://doi.org/10.1007/s41468-024-00192-7" target="_blank">10.1007/S41468-024-00192-7</a>
     </p>
+    <p>
+    The code for this project can be found <a href="https://zivgitlab.uni-muenster.de/ag-vahrenhold/public/aph/subsampling-distance/-/tree/c19b4b61d476e708276ab2dcfee591cd9e0d4cd7/" target="_blank">here</a>.
+    </p>
   </div>
 </div>
 <div class="cv-entry">

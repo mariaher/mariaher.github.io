@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Maria Herick
 tagline:          ''
 description:      'Personal website of Maria Herick.'
-url:              http://hyde.getpoole.com
+url:              https://mariaher.github.io/
 baseurl:          /
 
 author:
@@ -21,7 +21,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/mariaher/mariaher.github.io
 plugins:
   - jekyll-paginate
   - jekyll-gist
